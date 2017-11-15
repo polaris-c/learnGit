@@ -2,6 +2,7 @@
 //2017.11.11
 //2017.11.14 p add
 //2017.11.15 i dev add
+//2017.11.15 i mas add
 var newWord = "Hello Git!";
 
 alert(newWord);
